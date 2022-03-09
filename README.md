@@ -1,4 +1,4 @@
-<a href="https://t.me/mmrizo"><img src="https://avatars.dicebear.com/api/croodles-neutral/your-custom-seed.svg" align="right" height="200"/></a>
+<a href="https://t.me/mmrizo"><img src="https://avatars.dicebear.com/api/adventurer-neutral/asdfgghrefghhjjkkliygb.svg" align="right" height="200"/></a>
 
 # Hi there, I'm Mukhammadrizo 👋
 
