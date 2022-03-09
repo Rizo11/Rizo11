@@ -7,7 +7,7 @@
 
 <p align="end">
 <a href="https://dev.to/rizo11"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
-<a href="https://www.linkedin.com/in/mukhammadrizo-ma-rufjonov/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/mukhammadrizo-ma-rufjonov-174764190/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 <a href="https://t.me/mrizo_net"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
 <a href="https://instagram.com/mukhammadrizo_maribjonov"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
 <a href="https://www.facebook.com/profile.php?id=100036751786602"><img alt="Facebook" src="https://img.shields.io/badge/facebook-gray?style=flat-square&logo=facebook"></a>
