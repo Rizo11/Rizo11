@@ -19,7 +19,7 @@
 - 🎓 &nbsp; Computer Science - BS at Foothill Community College.
 - ⌛️ &nbsp; Currently I'm busy with:
   - 💼 &nbsp; Working as a Software Engineer at [Ilmhub](https://ilmhub.uz)
-  - 👨‍🏫 &nbsp; Teaching programming at [Ilmhub IT School](https://ilmhub.uz)
+  - 👨‍🏫 &nbsp; Studying at [Ilmhub IT School](https://ilmhub.uz)
 - 📝 &nbsp; I share my ideas at [Telegram Blog](https://t.me/mrizo_net)
 - 🌱 &nbsp; Learning .NET MAUI, DevOps and a lot more tech stuff.
 - 📫 &nbsp; Reach me at: maribjonov2002@gmail.com
