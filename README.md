@@ -18,7 +18,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Computer Science - BS at Foothill Community College.
 - ⌛️ &nbsp; Currently I'm busy with:
-  - 🐦 &nbsp; Working as a Software Engineer at [iTechArt Group] (https://www.itechart.uz)
+  - 🐦 &nbsp; Working as a Software Engineer at [iTechArt Group](https://www.itechart.uz)
   - 💼 &nbsp; Worked as a Software Engineer at [Ilmhub](https://ilmhub.uz)
   - 👨‍🏫 &nbsp; Studying at [Ilmhub IT School](https://ilmhub.uz)
 - 📝 &nbsp; I share my ideas at [Telegram Blog](https://t.me/mrizo_net)
