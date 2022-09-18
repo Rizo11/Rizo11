@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mukhammadrizo 👋
 
-> A software engineer building awesome web back/front stuff using .NET tech-stack at `Ilmhub`. A proud student of `Ilmhub IT School` where I studied with future software engineers. A man with a big dreams.
+> A software engineer building awesome web back/front stuff using .NET tech-stack. A proud student of `Ilmhub IT School` where I studied with future software engineers. A man with a big dreams.
 <br/><br/><br/>
 
 <p align="end">
@@ -19,11 +19,11 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Computer Science - BS at Foothill Community College 2020-2021.
 - ⌛️ &nbsp; Currently I'm busy with:
-  - 🐦 &nbsp; Working as a Software Engineer at [iTechArt Group](https://www.itechart.uz)
-  - 💼 &nbsp; Worked as a Software Engineer at [Ilmhub](https://ilmhub.uz)
-  - 👨‍🏫 &nbsp; Studying at [Ilmhub IT School](https://ilmhub.uz)
+  - 🎒 &nbsp; Learning C, Java, C++ and C# at [Innopolis unviersity](https://github.com/Rizo11/itp)
+- 🐦 &nbsp; Worked as a Software Engineer at [iTechArt Group](https://www.itechart.uz)
+- 💼 &nbsp; Worked as a Software Engineer at [Ilmhub](https://ilmhub.uz)
+- 👨‍🏫 &nbsp; Studied at [Ilmhub IT School](https://ilmhub.uz)
 - 📝 &nbsp; I share my ideas at [Telegram Blog](https://t.me/mrizo_net)
-- 🌱 &nbsp; Learning .NET MAUI, DevOps and a lot more tech stuff.
 - 📫 &nbsp; Reach me at: maribjonov2002@gmail.com
 
 <br/>
@@ -47,13 +47,13 @@
 <div>
  <br/>
 
-[![Wahid's Streak](https://github-readme-streak-stats.herokuapp.com?user=wahid-d&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
+[![Rizo's Streak](https://github-readme-streak-stats.herokuapp.com?user=Rizo11&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
 
-[![](https://komarev.com/ghpvc/?username=wahid-d&color=orange&label=Profile%20Views)](https://github.com/wahid-d/wahid-d)
-[![](https://img.shields.io/github/followers/Rizo11?label=GitHub%20Followers)](https://github.com/wahid-d)
+[![](https://komarev.com/ghpvc/?username=Rizo11&color=orange&label=Profile%20Views)](https://github.com/Rizo11/Rizo11)
+[![](https://img.shields.io/github/followers/Rizo11?label=GitHub%20Followers)](https://github.com/Rizo11)
 
 <!--
-**wahid-d/wahid-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rizo11/Rizo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
