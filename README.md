@@ -15,8 +15,9 @@
 
 <h1> 👨🏻‍💻 Me now </h1>
 
+- 🎓 &nbsp; Applied Artificial Intelligence - BS at Innopolis unviersity 2022-2026.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Computer Science - BS at Foothill Community College.
+- 🎓 &nbsp; Computer Science - BS at Foothill Community College 2020-2021.
 - ⌛️ &nbsp; Currently I'm busy with:
   - 🐦 &nbsp; Working as a Software Engineer at [iTechArt Group](https://www.itechart.uz)
   - 💼 &nbsp; Worked as a Software Engineer at [Ilmhub](https://ilmhub.uz)
