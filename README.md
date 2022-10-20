@@ -2,8 +2,6 @@
 
 # Hi there, I'm Mukhammadrizo 👋
 
-> A software engineer building awesome web back/front stuff using .NET tech-stack. A proud student of `Ilmhub IT School` where I studied with future software engineers. A man with a big dreams.
-<br/><br/><br/>
 
 <p align="end">
 <a href="https://dev.to/rizo11"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
