@@ -34,6 +34,7 @@
 - 🛢 &nbsp; SqlServer
 - ⚙️ &nbsp; Git | Docker | Github Actions
 
+
 <br/>
 
 <h1>Me Stats</h1>
@@ -49,6 +50,9 @@
 
 [![](https://komarev.com/ghpvc/?username=Rizo11&color=orange&label=Profile%20Views)](https://github.com/Rizo11/Rizo11)
 [![](https://img.shields.io/github/followers/Rizo11?label=GitHub%20Followers)](https://github.com/Rizo11)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizo11&layout=compact&show_icons=true&theme=radical)](https://github.com/Rizo11/github-readme-stats)
 
 <!--
 **Rizo11/Rizo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
