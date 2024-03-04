@@ -20,7 +20,6 @@
 - 🐦 &nbsp; Worked as a Software Engineer at [iTechArt Group](https://www.itechart.uz)
 - 💼 &nbsp; Worked as a Software Engineer at [Ilmhub](https://ilmhub.uz)
 - 👨‍🏫 &nbsp; Studied at [Ilmhub IT School](https://ilmhub.uz)
-- 📝 &nbsp; I share my ideas at [Telegram Blog](https://t.me/mrizo_net)
 - 📫 &nbsp; Reach me at: maribjonov2002@gmail.com
 
 <br/>
